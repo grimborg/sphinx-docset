@@ -3,4 +3,9 @@ Sphinx docset for Dash
 
 This is a Sphinx docset for [Dash](http://kapeli.com/dash).
 
-<a href="dash-feed://https%3A%2F%2Fraw.github.com%2Fgrimborg%2Fsphinx-docset%2Fmaster%2FSphinx.xml">Add to Dash</a>
+## Installation
+
+1. Open Dash.
+2. Go to `Dash -> Preferences -> Downloads` and click the `+` icon.
+3. Enter the feed URL: `https://raw2.github.com/grimborg/sphinx-docset/master/Sphinx.xml`
+4. The feed will be added to the list of available docsets. Click the `Install` button next to it.
